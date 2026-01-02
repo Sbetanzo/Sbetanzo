@@ -15,7 +15,6 @@ Me gusta crear proyectos claros, útiles y escalables, combinando tecnología co
 
 ## 📫 Contacto
 📧 **sofiabetanzo@gmail.com**  
-💻 **GitHub:** [@Sbetanzo](https://github.com/Sbetanzo)
 
 ---
 
