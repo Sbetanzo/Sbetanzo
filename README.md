@@ -6,7 +6,6 @@
 
 💻 Analista Programador Computacional | TI  
 🎓 Técnico de Nivel Superior en Turismo  
-🇨🇱 Chile
 
 Construyo soluciones digitales enfocadas en funcionalidad, orden y buena experiencia de usuario.  
 Me gusta crear proyectos claros, útiles y escalables, combinando tecnología con diseño minimalista.
