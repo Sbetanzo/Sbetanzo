@@ -60,5 +60,3 @@ Me gusta crear proyectos claros, útiles y escalables, combinando tecnología co
 
 
 ---
-
-✨ *Perfil en constante evolución*
