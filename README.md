@@ -1,9 +1,5 @@
 # Sofía Antonia Betanzo Mora
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Analista+Programador+Computacional;Desarrollo+Web+Moderno;Frontend+%2B+Backend;Proyectos+funcionales+y+limpios" />
-</p>
-
 💻 Analista Programador Computacional | TI  
 🎓 Técnico de Nivel Superior en Turismo  
 
